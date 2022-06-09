@@ -1,1 +1,1 @@
-# empirical-accounting-and-finance-in-r
+# 笠原晃恭・村宮克彦『実証会計・ファイナンス - Rによる財務・株式データの分析』新世社，2022年
