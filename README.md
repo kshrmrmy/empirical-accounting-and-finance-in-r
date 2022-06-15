@@ -1,6 +1,6 @@
 # 笠原晃恭・村宮克彦『実証会計・ファイナンス - Rによる財務・株式データの分析』新世社，2022年
 
-<img src="https://www.saiensu.co.jp/bookImages/2022-978-4-88384-349-7.jpg" width="150px" >
+<img src="https://www.saiensu.co.jp/bookImages/2022-978-4-88384-349-7.jpg" width="180px" >
 
 本リポジトリでは，新世社より出版されている[『実証会計・ファイナンス - Rによる財務・株式データの分析』](https://www.saiensu.co.jp/search/?isbn=978-4-88384-349-7&y=2022)で使用するコードを配布する．
 
