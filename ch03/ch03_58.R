@@ -8,4 +8,4 @@ ggplot(data = figure_data) +
   annotate(geom = "text", x = 99, y = 0.05, label = "Initial Cost 100") + # 位置を指定して文字列を追加
   annotate(geom = "segment", x = 100, xend = 100, y = 0.04, yend = 0.01, color = "black", linewidth = 0.5, arrow = arrow(length = unit(0.3, "cm"))) # 始点や終点などを指定して矢印を追加
 
-ggsave("IRR.pdf", width = 20, height = 10, units = "cm") # 完成した図をPDF型式で保存
+ggsave("IRR.pdf", width = 20, height = 10, units = "cm") # 完成した図をPDF形式で保存

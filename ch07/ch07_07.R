@@ -15,5 +15,5 @@ annual_data_2020 <- annual_data %>%
 ggplot(annual_data_2020) +
   geom_density(aes(x = cost_of_capital, group = ME_rank2, linetype = ME_rank2)) + # 密度関数を描くにはgeom_density()関数を用いる
   labs(x = "FF3 Cost of Capital", y = "Estimated Density", linetype = "Firm Type")  + 
-  scale_y_continuous(expand = c(0, 0), breaks = NULL) + # break引数で目盛り線を非表示に指定
+  scale_y_continuous(expand = c(0, 0), breaks = NULL) + # breaks引数で目盛り線を非表示に指定
   theme_classic()
